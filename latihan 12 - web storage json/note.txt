@@ -1,0 +1,2 @@
+Apa kegunaan dari fungsi JSON.parse()? Fungsi tersebut berguna untuk mengonversi sebuah JSON yang ditulis
+dalam bentuk string ke bentuk JSON "asli"

@@ -1,0 +1,2 @@
+stom event memungkinkan kita untuk menjalankan sebuah event handler
+setelah sebuah event handler lain selesai dipanggil.
